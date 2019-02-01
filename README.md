@@ -1,0 +1,2 @@
+# vim-script
+vim configuration
